@@ -1,0 +1,198 @@
+.container{
+    margin:  auto;
+    padding-left: 30px;
+    padding-right:  30px;
+    width: 1100px;
+    border-radius: 10px;
+    }
+
+
+.group:before,
+.group:after{
+    content: "";
+    display: table;
+}
+.group:after{
+    clear: both;
+    }
+
+.group{
+    clear: both;
+    *zoom:1 ;
+}
+.left{
+    float: left;
+    
+}
+.right{
+    float: right;
+}
+/*.nav{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    }*/
+    .image{
+        height: 100%;
+        margin-top: 10px;
+        
+    }
+
+     
+
+
+
+
+    
+    a{
+        text-decoration: none;
+    }
+    h1{
+        font-size: 50px;
+        font:bolder;
+    }
+    h3{
+        font-size: 30px;
+        font: bold;
+    }
+    h4{
+        font-size:23px;
+        font: bold;
+    }
+    .title{
+        font: bolder;
+        font-size: 45px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: crimson;
+        margin-left: 195px ;
+     
+    }        
+    .move{
+        word-spacing: 20px;
+        font-style: bold;
+        margin-left: 20px;
+        padding-top: 10px;
+        font-size: 18px;
+    
+    }
+    .footer{height: 125px;
+        width: 1080px;
+        background-color:burlywood;
+    }
+    .belong{
+        margin-top: 50px;
+        margin-left: 30px;
+        font-size: 25px;
+        color:black;
+        font: bolder;
+        text-decoration: none;
+        font-size: 25px;
+    }
+    .mail{
+        margin-right: 100px;
+        font-size: 18px;
+        }
+    .end{
+            font-size: 33px;
+        }
+        header{
+            background-color: burlywood;
+        
+            
+        }
+        
+
+
+
+        input[type=text], input[type=password], textarea {  
+            width: 100%;  
+            padding: 15px;  
+            margin: 5px 0 22px 0;  
+            display: inline-block;  
+            border: none;  
+            background: #f1f1f1;  
+          }  
+          input[type=text]:focus, input[type=password]:focus {  
+            background-color: orange;  
+            outline: none;
+          }
+
+            .registerbtn
+            {  
+                background-color: #4CAF50;  
+                color: white;  
+                padding: 16px 20px;  
+                margin: 8px 0;  
+                border: none;  
+                cursor: pointer;  
+                width: 100%;  
+                opacity: 0.9;  
+              }  
+              .registerbtn:hover {  
+                opacity: 1;  
+              }  
+              
+           form
+             {   
+                 margin-left: 10px;
+                padding: 50px;  
+               background-color: lightblue;
+               width: 50%;  
+               margin-bottom: 10px;
+              }  
+        .call{
+            padding: 5px;
+            padding-top: 45px;
+            margin-bottom: 10px;
+            width:39%;
+            height: 1050px;
+            background-color:#cd8383 ;
+            text-align: center;
+           
+        }
+        .tshirt{
+            margin-top: 110px;
+            padding-top: 20px;
+           margin-left: 20%;
+            border-radius: 60%;
+            background-color: aqua;
+            width: 60%;
+            height: 60px;
+            text-align: center;
+            color: black;
+        }
+        .tshirt:hover{
+            margin-top: 100px;
+            padding-top: 40px;
+            margin-left:18% ;
+            background-color:yellow;
+            height:80px;
+            width: 70%;
+            color: red;
+            margin-bottom: 100px;
+            font-size: 20px;
+        }
+        .rec{
+            width: 50%;
+            padding: 10px;
+           
+        }
+        .recimg{
+            width: 40%;
+            margin-top: 10%;
+            margin-right: 30px;
+        }
+
+
+
+
+
+        .text{
+            margin-left: 30px;
+            margin-top: 50px;
+            width: 60%;
+           
+        }
+
+        

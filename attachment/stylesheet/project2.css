@@ -1,0 +1,95 @@
+
+body{
+    background-color:white;
+}
+header{display: inline-block;}
+#name{
+    float: left;
+}
+#links{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+p{
+	font-size: 15px;
+}
+
+
+h1,h2,h3,h4,h5,h6,p{
+	margin-top: 10px;
+    margin-bottom: 22px;
+}
+h1{
+	font-size: 50px;
+	font:bolder;
+}
+h3{
+	font-size: 30px;
+	font: bold;
+}
+h4{
+	font-size:23px;
+	font: bold;
+}
+
+.nav{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    }
+
+
+header{
+ position: absolute;
+ width: 95%;
+ height: auto;
+ opacity: .7;
+ box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+ margin-top: 0%;
+ background-color: aliceblue;
+}
+.r{
+    font: bolder;
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: crimson;
+    margin-left: 195px ;
+ 
+}
+.add{
+    word-spacing: 20px;
+    font-style: bold;
+    margin-left: 20px;
+    padding-top: 10px;
+    font-size: 18px;
+
+}
+.k{height: 125px;
+    width: 100%;
+    background-color:bisque;
+}
+.rights{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size: 33px;
+}
+u{
+    color:deeppink;
+    font: bolder;
+    text-decoration: none;
+    font-size: 25px;
+}
+.mail{
+margin-right: 200px;
+font-size: 18px;
+}
+.end{
+    font-size: 33px;
+}
